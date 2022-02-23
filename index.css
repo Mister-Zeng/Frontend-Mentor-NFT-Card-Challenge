@@ -18,7 +18,7 @@ a {
 }
 
 .clock::before {
-    content: url(images/icon-clock.svg);
+    content: url(https://raw.githubusercontent.com/Mister-Zeng/Frontend-Mentor-NFT-Card-Challenge/d09cc8d9bbae0cab64aa32483ee1613074280d62/images/icon-clock.svg);
     position: absolute;
     left: -1.2rem;
     top: .1rem;
@@ -31,7 +31,7 @@ a {
 }
   
 .price::before {
-    content: url(images/icon-ethereum.svg);
+    content: url(https://raw.githubusercontent.com/Mister-Zeng/Frontend-Mentor-NFT-Card-Challenge/d09cc8d9bbae0cab64aa32483ee1613074280d62/images/icon-ethereum.svg);
     position: absolute;
     left: -1.2rem;
     top: 0.05rem;
