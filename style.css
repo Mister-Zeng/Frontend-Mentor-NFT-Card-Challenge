@@ -8,6 +8,10 @@
     color: hsl(178, 100%, 50%);
 }
 
+h1 {
+    margin: auto;
+}
+
 a {
     text-decoration: none;
 }
